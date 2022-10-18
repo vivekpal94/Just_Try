@@ -1,0 +1,162 @@
+[
+    {
+        "id": "1",
+        "firstName": "John",
+        "lastName": "Doe",
+        "age": 25,
+        "address": "Chor Bazar",
+        "course": "Btech"
+    },
+    {
+        "id": "2",
+        "firstName": "Peter",
+        "lastName": "Pal",
+        "age": 35,
+        "address": "Nepal",
+        "course": "Mtech"
+    },
+    {
+        "id": "3",
+        "firstName": "Marker",
+        "lastName": "Pet",
+        "age": 45,
+        "address": "India",
+        "course": "MSC"
+    },
+    {
+        "id": "4",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 55,
+        "address": "Sikkim",
+        "course": "BSC"
+    },
+    {
+        "id": "5",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 65,
+        "address": "Island",
+        "course": "ME"
+    },
+    {
+        "id": "6",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 75,
+        "address": "Daman",
+        "course": "CSE"
+    },
+    {
+        "id": "7",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 85,
+        "address": "Mumbai",
+        "course": "IT"
+    },
+    {
+        "id": "8",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 15,
+        "address": "Bengal",
+        "course": "EE"
+    },
+    {
+        "id": "9",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 25,
+        "address": "Delhi",
+        "course": "EC"
+    },
+    {
+        "id": "10",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 35,
+        "address": "J&K",
+        "course": "AI"
+    },
+    {
+        "id": "11",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 45,
+        "address": "Kerala",
+        "course": "ML"
+    },
+    {
+        "id": "12",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 55,
+        "address": "Khetri",
+        "course": "CLOUD"
+    },
+    {
+        "id": "13",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 65,
+        "address": "Bohpal",
+        "course": "AWS"
+    },
+    {
+        "id": "14",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 75,
+        "address": "MP",
+        "course": "AZURE"
+    },
+    {
+        "id": "15",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 85,
+        "address": "UP",
+        "course": "MiCloud"
+    },
+    {
+        "id": "16",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 15,
+        "address": "Barmer",
+        "course": "JioCloud"
+    },
+    {
+        "id": "17",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 25,
+        "address": "Gujarat",
+        "course": "Hotel"
+    },
+    {
+        "id": "18",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 35,
+        "address": "Rajasthan",
+        "course": "Doctor"
+    },
+    {
+        "id": "19",
+        "firstName": "Marker",
+        "lastName": "Pal",
+        "age": 45,
+        "address": "Sri Lanka",
+        "course": "CA"
+    },
+    {
+        "id": "20",
+        "firstName": "Peter",
+        "lastName": "Doe",
+        "age": 55,
+        "address": "Dubai",
+        "course": "Navy"
+    }
+]

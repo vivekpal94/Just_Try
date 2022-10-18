@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fetch</title>
+  </head>
+  <body>
+    <script>
+      fetch("student_data.json")
+        .then((response) => response.json())
+        .then((data) => {
+           console.log(data);
+         // document.write(data)
+        
+        for(var x in data) {
+            var a = `${data[x].name} - ${data[x].age} - ${data[x].city}<br>`;
+            document.write(a);
+        //     document.write(`${data[x].name}`);
+        //     document.write(`${data[x].email} <br>`);
+        // 
+    }
+        }) 
+        .catch((error) => 
+            //console.log("can't fetch data");
+            document.write("can't fetch data"));
+    </script>
+  </body>
+</html>
